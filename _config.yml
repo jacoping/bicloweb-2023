@@ -1,0 +1,13 @@
+# va in html title
+title: BICLÒ
+# va in html meta description
+description: Il network di parcheggi sicuri per i tuoi mezzi di mobilità green, a Firenze.
+# va in html meta keywords
+keywords: bicicletta, biciclette, bici, bike, ebike, bicicletta elettrica, monopattini, mobilità, smart mobility, mobilità smart, micromobilità, micromobility, mobilità green, green mobility
+# va nella navigazione
+sitename: BICLÒ
+# accessibile con site.url
+url: https://biclo.it
+
+kramdown:
+  hard_wrap: true
