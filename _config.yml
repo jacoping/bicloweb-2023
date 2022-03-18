@@ -8,6 +8,3 @@ keywords: bicicletta, biciclette, bici, bike, ebike, bicicletta elettrica, monop
 sitename: BICLÒ
 # accessibile con site.url
 url: https://biclo.it
-
-kramdown:
-  hard_wrap: true
