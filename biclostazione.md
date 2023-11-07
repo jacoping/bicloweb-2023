@@ -2,7 +2,7 @@
 layout: pages
 title: La Biclostazione™
 permalink: /biclostazione
-rank: 4
+rank: 5
 ---
 
 Biclò è l'unico distributore italiano di Fietshangar, l'originale bikebox olandese progettato per le strade di Rotterdam nei primi anni '90.
@@ -16,6 +16,10 @@ Con 30+ anni di esperienza, Fietshangar è la soluzione più efficace per garant
 
 
 
+<br>
 
+Biclò offre le Biclostazioni™ ai soci-utenti del <a href="/network">Network Biclò</a> ma anche a società, condomini, enti locali o privati che abbiano bisogno di offrire soluzioni di parcheggio sicuro ai loro propri soci, utenti, condomini, o familiari.
 
-<p class="mt-5 text-center"> Se ti interessa acquistare un bikebox contattaci! <br> <a href="mailto:info@biclo.it!" target="_blank" class="mt-3 btn btn-lg btn-secondary fw-bold border-white bg-white">Scrivi a info@biclo.it!</a> </p>
+Tutte le Biclostazioni™ arrivano dotate di lucchetto elettronico con tecnologia EVVA e possono essere aperte con l'<a href="/app">App Biclò</a>.
+
+<p class="mt-5 text-center"> Se ti interessa acquistare una Biclostazione™ contattaci! <br> <a href="mailto:info@biclo.it!" target="_blank" class="mt-3 btn btn-lg btn-secondary fw-bold border-white bg-white">Scrivi a info@biclo.it!</a> </p>

@@ -1,8 +1,8 @@
 ---
 layout: pages
-title: La Biclorete
-permalink: /biclorete
-rank: 3
+title: Il network Biclò
+permalink: /network
+rank: 4
 ---
 
 La Biclorete è il network di Biclostazioni gestita direttamente da Biclò, dedicata direttamente ai cittatini-ciclisti.

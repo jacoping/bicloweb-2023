@@ -16,20 +16,21 @@ Biclò accelera le trasformazioni dell’oggi, avvicinando il domani migliore.
 
 <br><br>
 
-## Il team
+<h1 class="text-center"> Il team </h1>
 Abbiamo ideato Biclò a partire da un nostro bisogno individuale, di parcheggiare al sicuro le nostre biciclette.
 Poi ci siamo resi conto che il nostro bisogno individuale era in realtà un bisogno collettivo, e che un network di parcheggi per biciclette ha il potenziale di rendere migliori le nostre città.
 
-<br><br>
+<br>
 
 
 
 {% for m in site.data.members %}
-<h3> {{ m.nome }} </h3>
-<h4> {{ m.ruolo }} </h4>
+<div class="d-flex flex-column align-items-center">
+    <div class="rounded-circle" style="width: 200px; height: 200px; background-image: url('{{m.foto}}'); background-size: cover;"></div> 
+    <h3> {{ m.nome }} </h3>
+    <h4> {{ m.ruolo }} </h4>
+</div>
 <p class="fw-lighter"> {{ m.bio }} </p>
-<div class="rounded-circle" style="width: 200px; height: 200px; background-image: url('{{m.foto}}'); background-size: cover;"></div> 
-<br>
 <br>
 {% endfor %}
 
