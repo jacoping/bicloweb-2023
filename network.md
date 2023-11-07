@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Il network Biclò
+title: Il Network Biclò
 permalink: /network
 rank: 4
 ---
