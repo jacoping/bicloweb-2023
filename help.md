@@ -1,15 +1,35 @@
-{% include head.html %}
+---
+layout: help
+title: 
+permalink: /help
+---
 
-<body class="text-white bg-brandcolor">
+# Qualcosa non va?
+<br>
 
-  <div class="cover-container w-100 h-100 p-3 mx-auto">
+## Se non riesci ad aprire la Biclostazione
+Prova i seguenti step:
+1. Assicurati che l'app EVVA sia installata sul tuo device
+2. Chiudi l'app Biclò
+3. Riapri l'app Biclò
+4. Seleziona la biclostazione
+5. Premi con il piede sulla barra
+6. Avvicina il telefono al cilindro
 
-  <main class="mt-5 px-3 d-flex flex-column align-items-center"></main>
+<br>
 
-    <div style="min-height: 60vh; max-width: 700px;" class="mt-5">
-      {{ content | markdownify}}
-    </div>
+### Se il box è aperto o danneggiato
+Chiama subito il 3290948309 oppure il 3470750063
 
-  </main>
+Se non ricevi risposta manda subito un messaggio whatsapp ai numeri sopra e una mail a info@biclo.it.
 
-</html>
+Grazie!!
+
+<br>
+
+### La tua bici è stata spostata o danneggiata?
+Scrivi una mail a info@biclo.it descrivendo il problema, e allega una foto!
+
+
+
+
