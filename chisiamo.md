@@ -3,6 +3,7 @@ layout: pages
 title: Chi siamo
 permalink: /chisiamo
 rank: 2
+show: true
 ---
 
 Biclò è un progetto in grado di favorire la transizione dei cittadini dall’uso di auto e moto a

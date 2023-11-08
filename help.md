@@ -1,7 +1,8 @@
 ---
 layout: help
-title: 
+title: Help
 permalink: /help
+exclude: true
 ---
 
 # Qualcosa non va?

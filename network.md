@@ -3,6 +3,7 @@ layout: pages
 title: Il Network Biclò
 permalink: /network
 rank: 4
+show: true
 ---
 
 Il network Biclò è la rete di Biclostazioni™ gestita direttamente da Biclò, dedicata direttamente ai cittatini-ciclisti.

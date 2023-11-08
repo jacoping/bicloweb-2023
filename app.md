@@ -3,6 +3,7 @@ layout: pages
 title: L'app Biclò
 permalink: /app
 rank: 6
+show: true
 ---
 
 <div class="mt-5 mb-5" style="margin: auto; width: max(20vw, 200px); height: max(20vw, 200px);">

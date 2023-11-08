@@ -3,6 +3,7 @@ layout: pages
 title: La Biclostazione™
 permalink: /biclostazione
 rank: 5
+show: true
 ---
 
 Biclò è l'unico distributore italiano di Fietshangar, l'originale bikebox olandese progettato per le strade di Rotterdam nei primi anni '90.
