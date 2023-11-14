@@ -6,6 +6,7 @@ rank: 5
 show: true
 ---
 
+<!--
 Biclò è l'unico distributore italiano di Fietshangar, l'originale bikebox olandese progettato per le strade di Rotterdam nei primi anni '90.
 Con 30+ anni di esperienza, Fietshangar è la soluzione più efficace per garantire la sicurezza e il confort della tua bici.
 
@@ -14,10 +15,12 @@ Con 30+ anni di esperienza, Fietshangar è la soluzione più efficace per garant
 </p>
 
 <img class="img-fluid" src="res/img/fietshangar-2.jpeg">
+-->
 
 
+Le Biclostazioni™ sono l'anima del network di Biclò. Nonostante le dimensioni limitate, suppergiù come una piccola auto, e permettono di ospitare in completa sicurezza e protezione fino a sei bici o ebike. Si inseriscono bene in qualsiasi contesto, e sono personalizzabili.
 
-<br>
+<img class="img-fluid p-5" src="res/img/bikebox.svg">
 
 Biclò offre le Biclostazioni™ ai soci-utenti del <a href="/network">Network Biclò</a> ma anche a società, condomini, enti locali o privati che abbiano bisogno di offrire soluzioni di parcheggio sicuro ai loro propri soci, utenti, condomini, o familiari.
 

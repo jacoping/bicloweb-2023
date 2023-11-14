@@ -37,8 +37,8 @@ Poi ci siamo resi conto che il nostro bisogno individuale era in realtà un biso
 
 
 
-
-Se vuoi aggiornameti o informazioni, o solo per parlare con noi scrivi a:
-<a class="text-light" href="mailto: info@biclo.it"> info@biclo.it</a>
+<br><br>
+<p class="text-center"> Se vuoi aggiornamenti o informazioni,<br>o solo per parlare con noi scrivi a:
+<a class="text-light" href="mailto: info@biclo.it"> info@biclo.it</a> </p>
 
 
