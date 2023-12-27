@@ -18,7 +18,7 @@ Con 30+ anni di esperienza, Fietshangar è la soluzione più efficace per garant
 -->
 
 
-Le Biclostazioni™ sono l'anima del network di Biclò. Nonostante le dimensioni limitate, suppergiù come una piccola auto, e permettono di ospitare in completa sicurezza e protezione fino a sei bici o ebike. Si inseriscono bene in qualsiasi contesto, e sono personalizzabili.
+Le Biclostazioni™ sono l'anima del network di Biclò. Nonostante le dimensioni limitate, circa come una piccola auto, permettono di ospitare in completa sicurezza e protezione fino a sei bici o ebike. Si inseriscono bene in qualsiasi contesto e sono personalizzabili.
 
 <img class="img-fluid p-5" src="res/img/bikebox.svg">
 
