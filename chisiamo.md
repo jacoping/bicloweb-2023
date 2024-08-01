@@ -17,28 +17,51 @@ Biclò accelera le trasformazioni dell’oggi, avvicinando il domani migliore.
 
 <br><br>
 
-<h1 class="text-center"> Il team </h1>
+<h2 class=""> Il nostro team </h2>
 Abbiamo ideato Biclò a partire da un nostro bisogno individuale, di parcheggiare al sicuro le nostre biciclette.
 Poi ci siamo resi conto che il nostro bisogno individuale era in realtà un bisogno collettivo, e che un network di parcheggi per biciclette ha il potenziale di rendere migliori le nostre città.
 
-<br>
 
-
-
+<div class="container">
 {% for m in site.data.members %}
-<div class="d-flex flex-column align-items-center">
-    <div class="rounded-circle" style="width: 200px; height: 200px; background-image: url('{{m.foto}}'); background-size: cover;"></div> 
-    <h3> {{ m.nome }} </h3>
-    <h4> {{ m.ruolo }} </h4>
-</div>
-<p class="fw-lighter"> {{ m.bio }} </p>
-<br>
+    <div class="row my-5">
+        <div class="col-sm-4 d-flex flex-column align-items-center">
+        <h3 class="h5 mb-0"> {{ m.nome }} </h3>
+        <h4 class="h5 mb-3 fw-lighter"> {{ m.ruolo }} </h4>
+            <div class="rounded-circle mb-3" style="width: 200px; height: 200px; background-image: url('{{m.foto}}'); background-size: cover;"></div>
+        </div>   
+         <div class="col-sm-1">
+        </div> 
+        <div class="col-sm-6">
+            <p class="fw-light lh-2"> {{ m.bio }} </p>
+        </div>
+    </div>
 {% endfor %}
+</div>
+
+
+<!-- VERSIONE PRECEDENTE
+{% for m in site.data.members %}
+<div class="mt-5 d-flex flex-column align-items-center">
+    <div class="rounded-circle" style="width: 200px; height: 200px; background-image: url('{{m.foto}}'); background-size: cover;"></div> 
+    <h3 class="h5 mt-2 mb-0 fw-light"> {{ m.nome }} </h3>
+    <h4 class="h5 mb-3"> {{ m.ruolo }} </h4>
+    <p style="max-width: 400px" class="fw-lighter lh-1"> {{ m.bio }} </p>
+{% endfor %}
+-->
+
+<br>
+<h2 class="mt-5"> La cooperativa </h2>
+<p>Biclò è una Società Cooperativa Impresa Sociale. Abbiamo scelto questa forma societaria perché crediamo nei valori della cooperazione e della responsabilità sociale di impresa.</p>
+<!-- <p> <a target="_blank" href="/res/biclo-statuto.pdf"> Scarica lo statuto della cooperativa </a> </p> -->
+<p> <a target="_blank" href="/res/biclo-bilanciosociale-2023.pdf"> Scarica il bilancio sociale 2023 </a> </p>
+
+
 
 
 
 <br><br>
-<p class="text-center"> Se vuoi aggiornamenti o informazioni,<br>o solo per parlare con noi scrivi a:
+<p class="text-center"> Per aggiornamenti o informazioni, o anche solo per fare due chiacchiere, scrivici: <br>
 <a class="text-light" href="mailto: info@biclo.it"> info@biclo.it</a> </p>
 
 
