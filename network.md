@@ -6,7 +6,7 @@ rank: 4
 show: true
 ---
 
-Il network Biclò è la rete di Biclostazioni™ gestita direttamente da Biclò, dedicata direttamente ai cittatini-ciclisti.
+Il network Biclò è la rete di Biclostazioni™ gestita direttamente da Biclò, dedicata direttamente ai cittadini-ciclisti.
 
 Il progetto è stato attivato per la prima volta nell'Ottobre 2023 a Firenze, presso l'SMS Rifredi, in Via Vittorio Emanuele 303. La sperimentazione prevede l'attivazione di una Biclostazione™ pilota con i primi 6 utenti, ma presto ne attiveremo altre. 
 
